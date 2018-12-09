@@ -44,11 +44,11 @@ You can also use this [Amazon link](https://amzn.to/2Qqpr0Z) when you got shoppi
 
 **Sponsored in part by these fine folks:**
 
-`If you've donated to me in the past and you want your name here, open a pull request. Name, website, twitter handle, etc. `
+If you've donated to me in the past and you want your name here, open a pull request. Name, website, twitter handle, etc. 
 
 **Corporate Sponsors:**
 
-`In the interest of transparency, all corporate donations benefiting Geeknik Labs will be listed here.`
+In the interest of transparency, all corporate donations benefiting Geeknik Labs will be listed here.
 
 2019
 

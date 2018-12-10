@@ -37,7 +37,7 @@ Litecoin: MFZjZcYbt3SToLMR7gnL1SdmR6PAxUaakR
 Ethereum: 0xC4CeC9b89E5B67b78ca0F11fBfAf5d26c2405436
 Basic Attention Token: 0x75195Cd953D9c40BBb330eb784aE4eD2867c1677
 Zcash (ZEC): t1Ubzj7v6nmKgsMX7oKDATr51QtcAgnaQgb0x 
-(ZRX): 0x6dc6e1AA18476A7393bD2410633288F7D61aDb92
+0x (ZRX): 0x6dc6e1AA18476A7393bD2410633288F7D61aDb92
 BURST: BURST-BFV7-DLV3-9MAN-28ZU8
 ```
 You can also use this [Amazon link](https://amzn.to/2Qqpr0Z) when you got shopping and we'll get a 1-10% comission and it won't cost you a dime. If you'd like to send something through the mail, send me a DM on [Twitter](https://twitter.com/geeknik) and we can make arrangements. 

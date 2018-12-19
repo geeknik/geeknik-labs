@@ -1,0 +1,116 @@
+On the first day of Christmas
+my true love sent to me 
+a jpeg in a zip file
+
+On the second day of Christmas
+my true love sent to me 
+2 kilo bytes of random data
+and a jpeg in a zip file
+
+On the third day of Christmas
+my true love sent to me
+3 packet captures
+2 kilo bytes of random data
+and a jpeg in a zip file
+
+On the fourth day of Christmas
+my true love sent to me
+4 cat gifs
+3 packet captures
+2 kilo bytes of random data
+and a jpeg in a zip file
+
+On the fifth day of Christmas
+my true love sent to me
+5 null pointers
+4 cat gifs
+3 packet captures
+2 kilo bytes of random data
+and a jpeg in a zip file
+
+On the sixth day of Christmas
+my true love sent to me
+6 sql injections
+5 null pointers
+4 cat gifs
+3 packet captures
+2 kilo bytes of random data
+and a jpeg in a zip file
+
+On the seventh day of Christmas
+my true love sent to me
+condition race 7 
+6 sql injections
+5 null pointers
+4 cat gifs
+3 packet captures
+2 kilo bytes of random data
+and a jpeg in a zip file
+
+On the eigth day of Christmas
+my true love sent to me
+8 buffer overflows
+condition race 7
+6 sql injections
+5 null pointers
+4 cat gifs
+3 packet captures
+2 kilo bytes of random data
+and a jpeg in a zip file
+
+On the ninth day of Christmas
+my true love sent to me 
+9 malware samples 
+8 buffer overflows
+condition race 7
+6 sql injections
+5 null pointers
+4 cat gifs
+3 packet captures
+2 kilo bytes of random data
+and a jpeg in a zip file
+
+On the tenth day of Christmas
+my true love sent to me
+10 GOTO 11
+9 malware samples 
+8 buffer overflows
+condition race 7
+6 sql injections
+5 null pointers
+4 cat gifs
+3 packet captures
+2 kilo bytes of random data
+and a jpeg in a zip file
+
+On the eleventh day of Christmas
+my true love sent to me
+11 shiny zero days
+10 GOTO 11
+9 malware samples 
+8 buffer overflows
+condition race 7
+6 sql injections
+5 null pointers
+4 cat gifs
+3 packet captures
+2 kilo bytes of random data
+and a jpeg in a zip file
+
+On the twelfth day of Christmas
+my true love sent to me
+12 more CPU cores
+11 shiny zero days
+10 GOTO 11
+9 malware samples 
+8 buffer overflows
+condition race 7
+6 sql injections
+5 null pointers
+4 cat gifs
+3 packet captures
+2 kilo bytes of random data
+and a jpeg in a zip file
+
+
+

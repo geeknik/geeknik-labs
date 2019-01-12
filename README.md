@@ -41,7 +41,7 @@ Zcash (ZEC): t1Ubzj7v6nmKgsMX7oKDATr51QtcAgnaQgb0x
 BURST: BURST-BFV7-DLV3-9MAN-28ZU8
 DOGE: DFF33C44QifbUBVcJGWsthWGtUmhqMC6Ps
 ```
-You can also use this [Amazon link](https://amzn.to/2Qqpr0Z) when you got shopping and we'll get a 1-10% comission and it won't cost you a dime. If you'd like to send something through the mail, send me a DM on [Twitter](https://twitter.com/geeknik) and we can make arrangements. 
+You can also use this [Amazon link](https://amzn.to/2Qqpr0Z) when you got shopping and we'll get a 1-10% comission and it won't cost you a dime. If you'd like to send something through the mail, send me a DM on [Twitter](https://twitter.com/geeknik) and we can make arrangements. Alternatively, you can email me here: `echo "Z2Vla25pa0Bwcm90b25tYWlsLmNoCg==" | perl -MMIME::Base64 -pe 's/(.+)/decode_base64($1)/e'`
 
 **Sponsored in part by these fine folks:**
 

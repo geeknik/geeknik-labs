@@ -2,7 +2,7 @@
 
 **What is Geeknik Labs?**
 
-Geeknik Labs is a small 2-person security research lab. Brian Carpenter is a retired police officer and former OpenDNS systems administrator with a knack for finding security flaws in open source software. My wife, April Carpenter, is a nursing student battling fibromyalgia and a rare brain disorder. During the past few years, Geeknik Labs has found and helped fixed thousands of bugs in hundreds of open source projects, including 42 serious enough to warrant CVE assignments and the publishing of security advisories. 
+Geeknik Labs is a small 2-person security research lab. Brian Carpenter is a retired police officer and former OpenDNS systems administrator with a knack for finding security flaws in open source software. My wife, April Carpenter, is a nursing student battling fibromyalgia and a rare brain disorder. During the past few years, Geeknik Labs has found and helped fixed thousands of bugs in hundreds of open source projects, including 43 serious enough to warrant CVE assignments and the publishing of security advisories. 
 
 
 **Geeknik Labs Trophy Case:**
@@ -18,12 +18,13 @@ pngcrush x2
 phpmyadmin x1
 libtiff x2
 libxml2 x1
-libcurl x4
+libcurl x5
 irssi x2
 shoco x1
 NSS x4 
 libzip x1
 MantisBT x1
+PuTTY x???
 ```
 
 **Can I help? Can I donate ________ to the cause?** 

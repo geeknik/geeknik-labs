@@ -52,6 +52,7 @@ You can also use this [Amazon link](https://amzn.to/2Qqpr0Z) when you got shoppi
 I you'd like to send something through the mail, send me a DM on [Twitter](https://twitter.com/geeknik) and we can make arrangements. Alternatively, you can email me here: `echo "Z2Vla25pa0Bwcm90b25tYWlsLmNoCg==" | perl -MMIME::Base64 -pe 's/(.+)/decode_base64($1)/e'`
 
 **Do I have to donate to you? What makes you so special? Why should I donate to you?**
+
 No. Absolutely nothing. Because you love me, you love seeing unintended behavior I cause in software and you want to make sure that I'm justly compensated for my time and effort towards making the Internet a safer place.
 
 **Sponsored in part by these fine folks:**

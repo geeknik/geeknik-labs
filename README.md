@@ -29,7 +29,7 @@ PuTTY x???
 
 **Can I help? Can I donate ________ to the cause?** 
 
-We have multiple ways you can donate. First, is our [GoFundMe campaign](https://www.gofundme.com/fund-geeknik-labs-through-2019). We're looking to raise $25,000.00 to fully fund our operations through December 31st 2019. You can also donate through [PayPal](https://paypal.me/geeknik) or [Square Cash](https://cash.me/$geekniklabs).
+We have multiple ways you can donate. First, is our [GoFundMe campaign](https://www.gofundme.com/fund-geeknik-labs-through-2019). We're looking to raise $25,000.00 to fully fund our operations through December 31st 2019. You can also donate through [PayPal](https://paypal.me/geeknik), [Venmo](https://venmo.com/Geeknik-Labs) or [Square Cash](https://cash.me/$geekniklabs).
 
 
 **Or one of these fine cryptocurrencies:**

@@ -2,8 +2,9 @@
 
 **What is Geeknik Labs?**
 
-Geeknik Labs is a small 2-person security research lab. Brian Carpenter is a retired police officer and former OpenDNS systems administrator with a knack for finding security flaws in open source software. My wife, April Carpenter, is a nursing student battling fibromyalgia and a rare brain disorder. During the past few years, Geeknik Labs has found and helped fixed thousands of bugs in hundreds of open source projects, including 43 serious enough to warrant CVE assignments and the publishing of security advisories. 
+Geeknik Labs (& Farm) is a small security research lab located upon the rural farmland of central Oklahoma. Brian Carpenter is a retired police officer and former OpenDNS systems administrator with a knack for finding security flaws in open source software. My wife, April Carpenter, handles day to day operations for a non-profit org in Oklahoma City whilst battling fibromyalgia and a rare brain disorder. During the past few years, Geeknik Labs has found and helped fixed thousands of bugs in hundreds of open source projects, as well as over 100 CVE assignments and security advisories.
 
+In 2019 our chili pepper farm was started and we grew 2 different varieties of peppers: Habanero and a "Big Thai" hybrid. They were both bountiful and delicious. In 2020 we hope to expand to a dozen different varieties. We're even working towards buying a large commercial building. Stay tuned!
 
 **Geeknik Labs Trophy Case:**
 ```
@@ -24,7 +25,7 @@ shoco x1
 NSS x4 
 libzip x1
 MantisBT x1
-PuTTY x???
+PuTTY x5
 ```
 
 **Can I help? Can I donate ________ to the cause?** 

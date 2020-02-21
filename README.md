@@ -11,7 +11,7 @@ List in progress, trying to track down the missing ones...
 PHP5 x1
 PHP7 x2
 OpenSSL x3
-Firefox x1
+Firefox x2
 tcpdump x5
 Perl5 x1
 pngcrush x2
@@ -29,7 +29,7 @@ PuTTY x???
 
 **Can I help? Can I donate ________ to the cause?** 
 
-We have multiple ways you can donate. First, is our [GoFundMe campaign](https://www.gofundme.com/fund-geeknik-labs-through-2019). We're looking to raise $25,000.00 to fully fund our operations through December 31st 2019. You can also donate through [PayPal](https://paypal.me/geeknik), [Venmo](https://venmo.com/Geeknik-Labs), [Square Cash](https://cash.me/$geekniklabs) or [Liberapay](https://liberapay.com/geeknik/).
+We have multiple ways you can donate. [PayPal](https://paypal.me/geeknik), [Venmo](https://venmo.com/Geeknik-Labs), [Square Cash](https://cash.me/$geekniksfarm), [Liberapay](https://liberapay.com/geeknik/), or, [Buy Me a Coffee](https://buymeacoff.ee/geeknik). Thank you!
 
 
 **Or one of these fine cryptocurrencies:**
@@ -50,11 +50,11 @@ You can also use this [Amazon link](https://amzn.to/2Qqpr0Z) when you got shoppi
 
 **How can I/we send you something/contact you?**
 
-I you'd like to send something through the mail, send me a DM on [Twitter](https://twitter.com/geeknik) and we can make arrangements. Alternatively, you can email me here: `echo "Z2Vla25pa0Bwcm90b25tYWlsLmNoCg==" | perl -MMIME::Base64 -pe 's/(.+)/decode_base64($1)/e'`
+If you'd like to send something through the mail, send me a DM on [Twitter](https://twitter.com/geeknik) and we can make arrangements. Alternatively, you can email me here: `echo "Z2Vla25pa0Bwcm90b25tYWlsLmNoCg==" | perl -MMIME::Base64 -pe 's/(.+)/decode_base64($1)/e'`
 
 **Do I have to donate to you? What makes you so special? Why should I donate to you?**
 
-No. Absolutely nothing. Because you love me, you love seeing unintended behavior I cause in software and you want to make sure that I'm justly compensated for my time and effort towards making the Internet a safer place.
+No. Absolutely not. But if you love me, or, you love seeing the unintended behavior I cause in software and you want to make sure that I'm justly compensated for my time and effort towards making the Internet a safer place, then by all means, shovel cash into our accounts. But seriously, I don't expect you to donate to us.
 
 **Sponsored in part by these fine folks:**
 
@@ -63,6 +63,10 @@ If you've donated to me in the past and you want your name here, open a pull req
 **Corporate Sponsors:**
 
 In the interest of transparency, all corporate donations benefiting Geeknik Labs will be listed here.
+
+2020
+
+None, so far.
 
 2019
 

@@ -67,7 +67,7 @@ In the interest of transparency, all corporate donations benefiting Geeknik Labs
 
 2020
 
-None, so far.
+[SecurityTrails](https://www.securitytrails.com) -- Service credits
 
 2019
 
@@ -75,6 +75,6 @@ None
 
 2018
 
-[Digital Ocean](https://m.do.co/c/12aebf5e2538)
+[Digital Ocean](https://m.do.co/c/12aebf5e2538) -- Hosting credits
 
 
